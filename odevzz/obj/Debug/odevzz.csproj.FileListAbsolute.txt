@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\odevzz\odevzz\bin\Debug\odevzz.exe.config
+C:\Users\yusuf\source\repos\odevzz\odevzz\bin\Debug\odevzz.exe
+C:\Users\yusuf\source\repos\odevzz\odevzz\bin\Debug\odevzz.pdb
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.Form1.resources
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.Properties.Resources.resources
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.exe
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.pdb
+C:\Users\yusuf\source\repos\odevzz\odevzz\obj\Debug\odevzz.Resource1.resources
